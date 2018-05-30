@@ -3,7 +3,7 @@
   
 }
 
-.App h2 { color: #FF8719; border-top: 1px orange solid; border-bottom: 1px orange solid; line-height: 200% }
+.App h2 { color: #FF8719; border-top: 1px #FFAF65 solid; border-bottom: 1px #FFAF65 solid; line-height: 200% }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
