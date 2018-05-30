@@ -1,7 +1,8 @@
 .App {
-  text-align: center; margin: 0 auto
-  
+  text-align: center; 
 }
+
+body { margin: 0 auto }
 
 .App h2 { color: #FF8719; border-top: 1px #FFD7A8 solid; border-bottom: 1px #FFD7A8 solid; line-height: 200% }
 
