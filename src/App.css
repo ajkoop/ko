@@ -10,6 +10,8 @@
   height: 80px;
 }
 
+span .ital { font-style: italic; font-family: serif}
+
 .App-header {
   background-color: #222;
   height: 150px;
