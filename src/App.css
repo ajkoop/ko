@@ -27,7 +27,7 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
 }
 
 .App-intro {
-  font-size: large;
+  /* font-size: large */ 
 }
 
 @keyframes App-logo-spin {
