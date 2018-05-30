@@ -10,7 +10,7 @@
   height: 80px;
 }
 
-span .ital { font-style: italic; font-family: serif}
+span .ital { font-style: italic; font-family: serif !important}
 .App span.orangish { color: orange}
 
 .App-header {
