@@ -18,8 +18,8 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
 /* h1, h2, header img, p { max-width: 90% } */
 
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background: #222 url("https://iu.box.com/shared/static/9n7nvfk7q4ivnrx6dfot5uoi1m5f3qjy.jpg") no-repeat;
+  height: /*150px*/ 20%;
   padding: 20px;
   color: white;
 }
