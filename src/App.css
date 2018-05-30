@@ -22,6 +22,7 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   height: /*150px*/ 33%;
   padding: 20px;
   color: white;
+  margin-bottom: 2em;
 }
 
 .App-title {
@@ -30,7 +31,6 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
 
 .App-intro {
   /* font-size: large */ 
-  margin-top: 1em;
 }
 
 @keyframes App-logo-spin {
