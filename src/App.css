@@ -10,8 +10,6 @@
   height: 80px;
 }
 
-p { max-width: 90% }
-
 span .ital { font-style: italic; font-family: serif}
 .App span.orangish { color: orange}
 
