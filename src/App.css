@@ -15,7 +15,7 @@ a { text-decoration: none }
 body span.ital { font-style: italic; font-family: serif !important; font-size: 110% }
 .App span.orangish { color: orange}
 
-h1, h2, .App-header, p { max-width: 90% }
+h1, h2, header img, p { max-width: 90% }
 
 .App-header {
   background-color: #222;
