@@ -23,7 +23,6 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   padding: 20px;
   color: white;
 }
-header { margin-bottom: 1em; }
 
 .App-title {
   font-size: 1.5em;
@@ -31,6 +30,7 @@ header { margin-bottom: 1em; }
 
 .App-intro {
   /* font-size: large */ 
+  margin-top: 1em;
 }
 
 @keyframes App-logo-spin {
