@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Andrew Koop</h1>
         </header>
         <p className="App-intro">
-          Hi.</p> <p>I'm a database programmer and <a href="http://mediaschool.indiana.edu/profile/?p=koop">educator</a> in Bloomington, IN.</p>
+          Hi, there.</p> <p>I'm a database programmer and <a href="http://mediaschool.indiana.edu/profile/?p=koop">educator</a> in Bloomington, IN.</p>
         <h2>My Work</h2>
         <p>I studied to be a copywriter and wrote grants. Then, I made a great many websites.</p>
         <p>Today, I write data integration Powershell scripts for Microsoft, Google, Apple Classroom, and any other apps the kids need their paws on.</p>
