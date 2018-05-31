@@ -11,7 +11,7 @@
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
 }
-
+ul { list-style-type: none }
 a { text-decoration: none; color: #53C2CC  } a:hover { color: orange }
 
 body span.ital { font-style: italic; font-family: serif !important; font-size: 110% }
