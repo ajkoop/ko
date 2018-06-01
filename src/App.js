@@ -20,7 +20,7 @@ class App extends Component {
           <li>Canvas</li>
           <li>Google</li>
           <li>Microsoft</li>
-          <li>Apple (Classroom)</li>
+          <li>Apple</li>
         </ul>
       </div>
       </div>
