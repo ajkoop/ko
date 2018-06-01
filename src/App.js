@@ -19,7 +19,7 @@ class App extends Component {
         <ul>
           <li>Canvas</li>
           <li>Google</li>
-          <li>Microsoft (On-Prem and Azure)</li>
+          <li>Microsoft</li>
           <li>Apple (Classroom)</li>
         </ul>
       </div>
