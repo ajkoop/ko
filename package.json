@@ -5,7 +5,10 @@
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "nodemailer" : "^2.3"
   },
   "scripts": {
     "start": "react-scripts start",
