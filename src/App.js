@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import plural from './pluralsight.jpg';
 import './App.css';
 
 
@@ -24,7 +25,7 @@ class App extends Component {
           <li>Apple</li>
           
         </ul>
-
+<p><a href="https://app.pluralsight.com/profile/koop"><img src={plural} alt="pluralsight" /></a></p>
         
       </div>
       </div>
