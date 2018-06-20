@@ -26,7 +26,8 @@ class App extends Component {
           
         </ul>
         <h2>GROWTH</h2>
-<p>I love to learn new languages. Check my latest stats (if you are into stats)!</p><p><a href="https://app.pluralsight.com/profile/koop"><img src={plural} className="pluralsight" alt="pluralsight" /></a></p>
+<p>I love to learn new languages. Check my <a href="https://app.pluralsight.com/profile/koop">latest stats</a> (if you are into stats)!</p>
+<!-- <p><img src={plural} className="pluralsight" alt="pluralsight" /></p> -->
         
       </div>
       </div>
