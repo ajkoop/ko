@@ -32,7 +32,7 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   font-size: 1.5em;
 }
 
-.pluralsight { max-width: 20%; max-height: 20% }
+.pluralsight { max-width: 33%; max-height: 33% }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
