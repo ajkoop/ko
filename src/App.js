@@ -25,7 +25,7 @@ class App extends Component {
           <li>Apple</li>
           
         </ul>
-<p><a href="https://app.pluralsight.com/profile/koop"><img src={plural} alt="pluralsight" /></a></p>
+<p><a href="https://app.pluralsight.com/profile/koop"><img src={plural} className="pluralsight" alt="pluralsight" /></a></p>
         
       </div>
       </div>

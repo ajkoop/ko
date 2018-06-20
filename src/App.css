@@ -32,9 +32,7 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   font-size: 1.5em;
 }
 
-.App-intro {
-  /* font-size: large */ 
-}
+img .pluralsight { width: 25%; height: 25% }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
