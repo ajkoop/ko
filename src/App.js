@@ -17,7 +17,7 @@ class App extends Component {
           Hi, there. Welcome.</p> <p>I'm a database programmer and <a href="http://mediaschool.indiana.edu/profile/?p=koop">educator</a> in Bloomington, IN.</p>
         <h2>WORK</h2>
         <p>I studied to be a copywriter and wrote grants. I made <span className="ital">oh-so-many</span> websites.</p>
-        <p>Today, I write data migration scripts for MCCSC mostly using combinations of SQL and PowerShell. I work on student and staff account synchronization for education and productivity companies such as </p> 
+        <p>Today, I write data migration scripts for MCCSC mostly using combinations of SQL and PowerShell. I work on user account synchronization for vendors such as </p> 
         <ul>
           <li>Canvas</li>
           <li>Google</li>
