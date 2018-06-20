@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import plural from './pluralsight.jpg';
+import plural from './pluralsight.png';
 import './App.css';
 
 
