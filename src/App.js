@@ -25,7 +25,7 @@ class App extends Component {
           <li>Apple</li>
           
         </ul>
-        <h2>g<span class="obnox">R</span>o<span class="obnox">w</span>t<span class="obnox">H</span></h2>
+        <h2>g<span class="obnox">R</span>o<span class="obnox">w</span>T<span class="obnox">h</span></h2>
 <p>I love to learn new languages. Check my <a href="https://app.pluralsight.com/profile/koop">latest stats</a> (if you are into stats)!</p>
 
         
