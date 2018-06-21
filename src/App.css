@@ -6,18 +6,18 @@
 .mainstreet { padding: 0 10% 0 10%; }
 
 .App h2 { color: #FF8719; 
-  border-top: 1px rgb(250, 221, 189) solid; 
+  border-top: 1px #FF8719 solid; 
   border-bottom: 1px rgb(250, 221, 189) solid; 
   line-height: 200%; 
   margin-top: 1em; 
   margin-bottom: 1em;
-  -webkit-text-stroke: 1px rgb(250, 221, 189);
+  -webkit-text-stroke: 1px rgb(250, 145, 47); 
   text-shadow:
-      1px 1px 0 rgb(250, 221, 189),
-    -1px -1px 0 rgb(250, 221, 189),  
-     1px -1px 0 rgb(250, 221, 189), 
-     -1px 1px 0 rgb(250, 221, 189),
-      1px 1px 0 rgb(250, 221, 189)
+      1px 1px 0 rgb(250, 145, 47),
+    -1px -1px 0 rgb(250, 145, 47), 
+     1px -1px 0 rgb(250, 145, 47), 
+     -1px 1px 0 rgb(250, 145, 47),
+      1px 1px 0 rgb(250, 145, 47)
  }
 
  h2 .obnox {
