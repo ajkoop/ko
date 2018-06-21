@@ -15,7 +15,7 @@ class App extends Component {
         <div className="mainstreet">
         <p className="App-intro">
           Hi, there. Welcome.</p> <p>I'm a database programmer and <a href="http://mediaschool.indiana.edu/profile/?p=koop">educator</a> in Bloomington, IN.</p>
-        <h2>WORK</h2>
+        <h2>wOrK</h2>
         <p>I studied to be a copywriter and wrote grants. I made <span className="ital">oh-so-many</span> websites.</p>
         <p>Today, I write data migration scripts for MCCSC. I sync user accounts for vendors such as </p> 
         <ul>
@@ -25,7 +25,7 @@ class App extends Component {
           <li>Apple</li>
           
         </ul>
-        <h2>GROWTH</h2>
+        <h2>gRoWtH</h2>
 <p>I love to learn new languages. Check my <a href="https://app.pluralsight.com/profile/koop">latest stats</a> (if you are into stats)!</p>
 
         
