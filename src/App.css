@@ -8,6 +8,7 @@
 .App h2 { color: #FF8719; 
   border-top: 1px #FF8719 solid; 
   border-bottom: 1px rgb(250, 221, 189) solid; 
+  background-color: rgb(253, 238, 222);
   line-height: 200%; 
   margin-top: 1em; 
   margin-bottom: 1em;
