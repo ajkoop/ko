@@ -12,14 +12,18 @@
   line-height: 200%; 
   margin-top: 1em; 
   margin-bottom: 1em;
+  letter-spacing: -1px;
+  /*
   -webkit-text-stroke: 1px rgb(219, 124, 36),; 
-  text-shadow:
+   text-shadow:
       1px 1px 0 rgb(219, 124, 36),
     -1px -1px 0 rgb(219, 124, 36),
      1px -1px 0 rgb(219, 124, 36),
      -1px 1px 0 rgb(219, 124, 36),
       1px 1px 0 rgb(219, 124, 36)
+  */
  }
+ 
 
  h2 .obnox {
   font-style: italic; font-family: serif !important; margin-left: -3px;
