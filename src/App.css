@@ -12,20 +12,22 @@
   line-height: 200%; 
   margin-top: 1em; 
   margin-bottom: 1em;
-  -webkit-text-stroke: 1px rgb(250, 145, 47); 
+  -webkit-text-stroke: 1px rgb(219, 124, 36),; 
   text-shadow:
-      1px 1px 0 rgb(250, 145, 47),
-    -1px -1px 0 rgb(250, 145, 47), 
-     1px -1px 0 rgb(250, 145, 47), 
-     -1px 1px 0 rgb(250, 145, 47),
-      1px 1px 0 rgb(250, 145, 47)
+      1px 1px 0 rgb(219, 124, 36),
+    -1px -1px 0 rgb(219, 124, 36),
+     1px -1px 0 rgb(219, 124, 36),
+     -1px 1px 0 rgb(219, 124, 36),
+      1px 1px 0 rgb(219, 124, 36)
  }
-
+/*
  h2 .obnox {
   -webkit-text-stroke: none;
   text-shadow:
      none
+
  }
+ */
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
