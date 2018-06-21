@@ -15,9 +15,19 @@
   text-shadow:
       1px 1px 0 rgb(250, 221, 189),
     -1px -1px 0 rgb(250, 221, 189),  
-     1px -1px 0 rgb(250, 221, 189),
+     1px -1px 0 rgb(250, 221, 189), 
      -1px 1px 0 rgb(250, 221, 189),
       1px 1px 0 rgb(250, 221, 189)
+ }
+
+ h2 .obnox {
+  -webkit-text-stroke: 1px rgb(252, 236, 218);
+  text-shadow:
+      1px 1px 0 rgb(252, 236, 218),
+    -1px -1px 0 rgb(252, 236, 218), 
+     1px -1px 0 rgb(252, 236, 218),
+     -1px 1px 0 rgb(252, 236, 218),
+      1px 1px 0 rgb(252, 236, 218)
  }
 
 .App-logo {
