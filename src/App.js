@@ -15,8 +15,8 @@ class App extends Component {
         <div className="mainstreet">
         <p className="App-intro">
           Hi, there. </p> <p>I'm a database programmer and Adjunct Lecturer with IU's Media School.</p>
-        <h2>wOr<span class="obnox">k</span></h2>
-         <p>My programming efforts entail writing data migration scripts for the Monroe County Community School Corporation (MCCSC). I sync our user accounts for vendors such as </p> 
+        <h2>MCCSC</h2>
+         <p>My daily programming efforts entail writing data migration scripts for the Monroe County Community School Corporation (MCCSC). I sync our user accounts for vendors such as </p> 
         <ul>
           <li>Canvas</li>
           <li>Google</li>
@@ -24,7 +24,8 @@ class App extends Component {
           <li>Apple</li>
           
         </ul>
-  
+        <h2>IU</h2>
+  <p>I have been teaching online portfolio devlopment within IU's Media School since 2013.</p>
         
       </div>
       </div>
