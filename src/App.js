@@ -24,9 +24,7 @@ class App extends Component {
           <li>Apple</li>
           
         </ul>
-       <!-- <h2>gRowT<span class="obnox">h</span></h2>
-<p>I love to learn new languages. Check my <a href="https://app.pluralsight.com/profile/koop">latest stats</a> (if you are into stats)!</p>
--->
+  
         
       </div>
       </div>
