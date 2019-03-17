@@ -30,6 +30,9 @@
   font-style: italic; font-family: serif !important; margin-left: -1px;
   text-shadow: none; -webkit-text-stroke: none
  }
+
+ h2.mccsc { color: #00467f }
+ h2.iu { color: #990000 }
  
 
 .App-logo {
