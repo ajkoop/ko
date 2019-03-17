@@ -14,7 +14,7 @@ class App extends Component {
         </header>
         <div className="mainstreet">
         <p className="App-intro">
-          Hi, there. </p> <p>I'm a database programmer and Adjunct Lecturer with IU's Media School.</p>
+          Hi, there. </p> <p>I'm a database programmer and Adjunct Lecturer.</p>
         <h2 class="mccsc">MCCSC</h2>
          <p>My daily programming efforts entail writing data migration scripts (primarily in Powershell and SQL) for the Monroe County Community School Corporation (MCCSC). I sync our user accounts for vendors such as </p> 
         <ul>
