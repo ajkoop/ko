@@ -25,7 +25,7 @@ class App extends Component {
           
         </ul>
         <h2 class="iu">Indiana University</h2>
-  <p>I have been teaching online portfolio devlopment within IU's Media School since 2013.</p>
+  <p>I have been teaching online portfolio development within IU's Media School since 2013.</p>
         
       </div>
       </div>
