@@ -16,12 +16,12 @@ class App extends Component {
         <p className="App-intro">
           Hi, there. </p> <p>I'm a database programmer and educator.</p>
         <h2 class="mccsc">MCCSC</h2>
-         <p>My daily programming efforts entail writing data migration scripts (primarily in Powershell and SQL) for the Monroe County Community School Corporation (MCCSC). I sync our user accounts for vendors such as  
+         <p>My daily programming efforts entail writing data migration scripts (primarily in Powershell and SQL) for the Monroe County Community School Corporation (MCCSC). I onboard, modify, and offboard  user accounts for vendors such as  
         
           Canvas,
           Google,
           Microsoft, and
-          Apple
+          Apple</p>
           
         
         <h2 class="iu">Indiana University</h2>
