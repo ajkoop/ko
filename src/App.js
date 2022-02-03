@@ -21,7 +21,7 @@ class App extends Component {
           Canvas,
           Google,
           Microsoft, and
-          Apple</p>
+          Apple.</p>
           
         
         <h2 class="iu">Indiana University</h2>
