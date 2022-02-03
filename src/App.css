@@ -6,8 +6,7 @@
 margin: auto 0; 
 }
 
-.mainstreet { padding: 0 10% 0 10%; 
-max-width: 50% }
+.mainstreet { padding: 0 10% 0 10%;  }
 
 .App h2 { color: #FF8719; 
   /* border-top: 1px #FF8719 solid; */ 
