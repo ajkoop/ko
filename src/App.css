@@ -2,6 +2,9 @@
   text-align: center; 
   
 }
+#root {
+margin: auto 0; 
+}
 
 .mainstreet { padding: 0 10% 0 10%; 
 max-width: 50% }
@@ -35,7 +38,7 @@ max-width: 50% }
  h2.mccsc { color: #00467f }
  h2.iu { color: #990000 }
  
-p { max-width: 33% }
+/*p { max-width: 33% } */
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
