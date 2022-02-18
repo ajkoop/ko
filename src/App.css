@@ -80,6 +80,7 @@ and (max-width : 320px) {
   max-height: 33% 
 }
 .mainstreet { 
-  max-width: 70% 
+  max-width: 70% !important;
 }
+p { text-align: center }
 }
