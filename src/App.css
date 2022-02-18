@@ -72,15 +72,19 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   to { transform: rotate(360deg); }
 }
 
-/* Smartphones (portrait) ----------- */
+/* Portrait */
 @media only screen 
-and (max-width : 320px) {
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
   /* Styles */
-.App-header {
-  max-height: 33% 
-}
-.mainstreet { 
-  max-width: 70% !important;
-}
-p { text-align: center }
+  .App-header {
+    max-height: 33% 
+  }
+  .mainstreet { 
+    max-width: 70% !important;
+  }
+  p { text-align: center }
+  
 }
