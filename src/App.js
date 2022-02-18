@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+// import heado from './head.jpg
 // import plural from './pluralsight.png';
 import './App.css';
 
