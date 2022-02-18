@@ -87,5 +87,11 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   }
 
   p, .App h2 { text-align: center }
+
+  .App h2 {
+
+  border-top: none;
+  border-bottom: none; 
+  }
   
 }
