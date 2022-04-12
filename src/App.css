@@ -7,7 +7,7 @@ body { background-color: black
 #root {
 margin: auto 0; 
 background-color: azure;
-padding-bottom: 50px
+padding-bottom: 40px
 }
 
 .mainstreet { padding: 0 10% 0 10%; max-width: 50%; margin: 0 auto  }
