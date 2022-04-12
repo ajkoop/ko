@@ -17,8 +17,9 @@ padding-bottom: 50px
   border-top: 1px rgb(250, 221, 189) solid; 
   border-bottom: 1px rgb(250, 221, 189) solid; 
  /* background-color: rgb(253, 238, 222); */
-  line-height: 200%; 
-  margin-top: 1em; 
+ /* line-height: 200%; */ 
+  margin-top: 1em;
+  padding: 7px 0 7px 0; 
   margin-bottom: 1em;
   letter-spacing: -1px;
   text-align: left;
