@@ -17,7 +17,7 @@ class App extends Component {
         <p className="App-intro">
           Hi, there. </p> <p>I'm a full stack programmer that likes to teach. I've been in Ed Tech since 2003.</p>
         <h2 class="mccsc">Assistant Director of Technology - MCCSC</h2>
-         <p>I lead software development and manage SIS and LMS vendor integrations.</p>
+         <p>I have worked for the Monroe County Community School Corporation for eight years and am proud to support student learning. My work is varied, but I most specifically lead software development and manage SIS data and related vendor integrations.</p>
           
         
         <h2 class="iu">Adjunct Lecturer - Indiana University</h2>
