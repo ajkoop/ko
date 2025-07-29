@@ -67,7 +67,7 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   margin-bottom: 2em;
 }
 
-p img { float: right; margin-left: 40px }
+p img { float: right; margin-left: 40px; width: 33%; height: 33% }
 
 .App-title {
   font-size: 1.5em;
