@@ -50,7 +50,7 @@ padding-bottom: 40px
 }
 ul, li { list-style-type: none; padding-left: 0 !important ; margin-left: 0 !important }
 a { text-decoration: none; color: #53C2CC  } a:hover { color: orange }
-p a { text-decoration: none; color: orang  } a:hover { color: red }
+p a { text-decoration: none; color: orange  } a:hover { color: #53C2CC}
 
 body span.ital { font-style: italic; font-family: serif !important; font-size: 110% }
 .App span.orangish { color: orange}
@@ -95,6 +95,8 @@ p img { float: right; margin-left: 40px; width: 33%; height: 33% }
   }
 
   p, .App h2 { text-align: center }
+  
+  p image { vertical-align: top; float: none }
 
   .App h2 {
 
