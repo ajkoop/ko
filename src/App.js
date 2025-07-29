@@ -23,7 +23,7 @@ class App extends Component {
         
         <h2 class="iu">Adjunct Lecturer - Indiana University</h2>
   <p>I have been teaching <a href="https://koop.ws/V334/evaluation/testimonials.html">Building an Online Portfolio</a> within IU's Media School since 2013.</p>
-  <h2>Bloomington Digital Underground</h2>
+  <h2 class="mccsc">Bloomington Digital Underground</h2>
         <p>I serve on the <a href="https://bloomington.in.gov/onboard/committees/10/members">city's commission</a> in order to assist in maintaining improving digital opportunity across the community.</p>
       </div>
       </div>
