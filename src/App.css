@@ -67,7 +67,11 @@ body span.ital { font-style: italic; font-family: serif !important; font-size: 1
   margin-bottom: 2em;
 }
 
-p img { float: right; margin-left: 40px; width: 33%; height: 33% }
+p img { float: right; margin-left: 40px; width: 33%; height: 33%;   border: 5px solid transparent; /* Fallback for browsers not supporting border-image */
+  border-image: conic-gradient(from var(--angle), #ff00ff, #00ffff, #ff00ff) 1;
+  border-image-slice: 1; /* Ensure the gradient covers the entire border */
+  animation: rotateGradient 4s linear infinite;
+  --angle: 0deg; /* Custom property for animation */ }
 
 .App-title {
   font-size: 1.5em;
