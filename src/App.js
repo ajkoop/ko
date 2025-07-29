@@ -15,13 +15,13 @@ class App extends Component {
         </header>
         <div className="mainstreet">
         <p className="App-intro">
-          Hi, there. </p> <p>I'm a creative and passionate executive leader with a backround in writing, programming, and design. </p> <p>I have a 23 year background in Education ranging from Communnications & Marketing to Technology. </p> <p>Here's what I'm up to professionally right now.</p>
+          Hi, there. <img src="koop.png"></p> <p>I'm a creative and passionate executive leader with a backround in writing, programming, and design. </p> <p>I have a 23 year background in Education ranging from Communnications & Marketing to Technology. </p> <p>Here's what I'm up to professionally right now.</p>
         <h2 class="mccsc">Director of Technology - MCCSC</h2>
          <p>I have worked for the Monroe County Community School Corporation for the past nine years and am proud to support student learning via technology solutions.</p>
           
         
         <h2 class="iu">Adjunct Lecturer - Indiana University</h2>
-  <p>I have been teaching online portfolio development within IU's Media School since 2013.</p>
+  <p>I have been teaching <a href="https://koop.ws/V334/evaluation/testimonials.html">Building an Online Portfolio</a> within IU's Media School since 2013.</p>
         
       </div>
       </div>
