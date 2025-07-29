@@ -94,7 +94,7 @@ p img { float: right; margin-left: 40px; width: 33%; height: 33% }
     max-width: 70% !important;
   }
 
-  p, .App h2 { text-align: center }
+  p, .App h2 { text-align: left }
   
   p image { vertical-align: top; float: none }
 
