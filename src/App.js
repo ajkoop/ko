@@ -15,9 +15,9 @@ class App extends Component {
         </header>
         <div className="mainstreet">
         <p className="App-intro">
-          Hi, there. </p> <p>I'm a full stack programmer that likes to teach. I've been in Ed Tech since 2003.</p>
-        <h2 class="mccsc">Director of Technology and Communications - MCCSC</h2>
-         <p>I have worked for the Monroe County Community School Corporation for the past eight years and am proud to support student learning via technology solutions.</p>
+          Hi, there. </p> <p>I'm a creative and passionate executive leader with a backround in writing, programming, and design. </p>
+        <h2 class="mccsc">Director of Technology - MCCSC</h2>
+         <p>I have worked for the Monroe County Community School Corporation for the past nine years and am proud to support student learning via technology solutions.</p>
           
         
         <h2 class="iu">Adjunct Lecturer - Indiana University</h2>
