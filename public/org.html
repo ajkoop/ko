@@ -1,0 +1,51 @@
+  <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Mermaid Chart</title>
+    </head>
+    <body>
+     <pre class="mermaid">
+           graph TD
+    A[Andrew Koop<br /><strong>Director of Technology</strong>]
+    A --> B1[Patrick O'Neal <br /><strong>Assistant Director - Hardware and Support</strong>]
+    A --> B2[Vacant <br /><strong>Assistant Director - Data Operations</strong>]
+   
+    B1 --> C2[Michael Alvarez <br/><strong>Network Engineer</strong>]
+    B1 --> C3[Tyler Houin <br/><strong>Safety Engineer</strong>]
+    B1 --> C4[Keith Meyer <br/><strong>Hardware Manager</strong>]
+    B1 --> C5[John Walker <br/><strong>Support Coordinator</strong>]
+
+    B2 --> C1[Timmy Sprowl <br /><strong>Hardware and App Engineer</strong>]
+    B2 --> C6[Philip Knieriemen <br /><strong>Instructional Tech Coordinator</strong>]
+    B2 --> C7[Jess Bolis <br /><strong>State Reporting Specialist</strong>]
+    B2 --> C8[William Scott <br /><strong>Applications Specialist</strong> ]
+
+   
+
+    %% Additional Level
+    %% C4 --> D1[Devin Borland - Admin Tech]
+    %% C2 --> D2[Tech 3 - Jr. Engineer]
+    C5 --> D3[Tiffany Vandever <br /><strong>HelpDesk</strong>]
+    C5 --> D4[Building Technicians]
+    C6 --> D5[Computer Coordinators]
+    C7 --> D6[Admin Assistants]
+  
+   %% Class Definitions (Colors)
+    classDef executive fill:#00467F,stroke:#ff0000,color:#FFFFFF;
+    classDef director fill:#439539,stroke:#00aa00,color:#FFFFFF;
+    classDef manager fill:#FDB913,stroke:#0000ff,color:#000000;
+    classDef staff fill:#ffffcc,stroke:#aaaa00,color:#000000;
+    classDef groups fill:#ECECEC,stroke:#aaaa00,color:#000000, stroke-dasharray: 5 5
+    %% Assign Classes
+    class A executive;
+    class B1,B2,B3 director;
+    class C1,C2,C3,C4,C5,C6,C7,C8 manager;
+    class D1,D2,D3 staff;
+    class D4,D5,D6 groups;
+        </pre>  
+         <script type="module">
+            import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+        </script>
+    </body>
+    </html>
