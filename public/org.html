@@ -3,8 +3,13 @@
     <head>
         <meta charset="utf-8">
         <title>Mermaid Chart</title>
+         <style>
+         .caption { font-style: italic; color: #439539;  text-align: center; margin-top: 20px }
+         .caption h3 { color: #439539 !important }
+            </style>
     </head>
     <body>
+       
      <pre class="mermaid">
            graph TD
     A[Andrew Koop<br /><strong>Director of Technology</strong>]
@@ -47,5 +52,11 @@
          <script type="module">
             import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
         </script>
+         <div class = "cap">
+         <h3>Proposed Org Savings: $172,040</h3>
+        <p>Staff Cuts: (2) Application Systems Managers, (1) Engineer</p>
+        <p>Staff Adds: Assistant Director - Data Operations</p>
+        <p>Staff Reclass: Applications Specialist</p>
+        </div>
     </body>
     </html>
