@@ -2,14 +2,31 @@
     <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Mermaid Chart</title>
+        <meta name="robots" content="noindex">
+        <title>Proposed Org Chart</title>
+        <script>
+function checkPassword() {
+    var password = "coach"; // Set your password here
+    var enteredPassword = prompt("Please enter the password to access this page:");
+
+    if (enteredPassword === password) {
+        alert("Access Granted!");
+        // You can either display the content directly or redirect to another page
+        document.getElementById('protectedContent').style.display = 'block';
+    } else {
+        alert("Access Denied. Incorrect password.");
+        // Redirect or take other actions for denied access
+        window.location.href = "access_denied.html"; // Example: redirect to an access denied page
+    }
+}
+</script>
          <style>
          .caption { font-style: italic; color: #439539;  text-align: center; margin-top: 20px }
          .caption h3 { color: #439539 !important }
             </style>
     </head>
-    <body>
-       
+    <body onload="checkPassword()">
+       <div id="protectedContent" style="display:none;">
      <pre class="mermaid">
            graph TD
     A[Andrew Koop<br /><strong>Director of Technology</strong>]
@@ -57,6 +74,7 @@
         <p>Staff Cuts: (2) Application Systems Managers, (1) Engineer</p>
         <p>Staff Adds: Assistant Director - Data Operations</p>
         <p>Staff Reclass: Applications Specialist</p>
+        </div>
         </div>
     </body>
     </html>
