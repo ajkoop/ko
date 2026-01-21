@@ -16,7 +16,7 @@ class App extends Component {
         </header>
         <div className="mainstreet">
         <p className="App-intro">
-          <span class="introzen">Hi, there.</span> <img src={me} /></p> <p>I'm a creative and passionate executive leader with a twenty-three year career in Information Technology spent writing, programming, teaching, and designing bent toward improving educational outcomes. </p>  <p>Here's what I'm up to professionally right now.</p>
+          <span class="introzen">Hi, there.</span> <img src={me} /></p> <p>I'm a creative and passionate executive leader with a twenty-three year career in Information Technology building and maintaining security and learning management systems bent toward improving educational outcomes. </p>  <p>Here's what I'm up to professionally right now.</p>
         <h2 class="mccsc">Director of Technology - MCCSC</h2>
          <p>I have worked for the Monroe County Community School Corporation for the past ten years and am proud to support student learning via custom data-driven technology solutions.</p>
           
